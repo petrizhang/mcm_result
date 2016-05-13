@@ -1,0 +1,2 @@
+此文件夹保存由证书公布网址抓取的pdf文件，在运行extractdata.py后才会产生pdf文件，
+在.gitignore中设置了默认此目录下的pdf文件不纳入git的管理。
