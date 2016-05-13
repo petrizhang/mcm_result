@@ -1,0 +1,3 @@
+
+此文件夹保存由pdf提取出的txt文件，在运行extractdata.py后才会产生文件，
+在.gitignore中设置了默认此目录下的txt文件不纳入git的管理。
