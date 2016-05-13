@@ -1,0 +1,5 @@
+/.idea
+/.ipynb_checkpoints
+/pdf/*
+/text/*
+/__pycache__
