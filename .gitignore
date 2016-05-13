@@ -1,5 +1,5 @@
 /.idea
 /.ipynb_checkpoints
-/pdf/*
-/text/*
+/pdf/*.pdf
+/text/*.txt
 /__pycache__
